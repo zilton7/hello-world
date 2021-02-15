@@ -39,9 +39,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-- GitHub: [@githubhandle](https://github.com/zilton7)
-- Twitter: [@twitterhandle](https://twitter.com/devnor7linke)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zil-norvilis)
+- GitHub: [@zilton7](https://github.com/zilton7)
+- Twitter: [@devnor7](https://twitter.com/devnor7
+- LinkedIn: [zil-norvilis](https://www.linkedin.com/in/zil-norvilis)
 
 ## 🤝 Contributing
 
