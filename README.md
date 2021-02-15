@@ -2,26 +2,23 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Hell oWorld is a Microverse's Week 1 Project intended to help learn GitHub basics.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+There is not many feaures, appart from Microverse's linters.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://zilton7.github.io/hello-world/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**This is nstructions on setting up your project locally.**
 
 To get a local copy up and running follow these simple example steps.
 
